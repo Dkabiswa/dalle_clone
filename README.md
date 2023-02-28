@@ -1,0 +1,1 @@
+This is a clone of the dall-e web application image creation by Open AI
